@@ -1,2 +1,3 @@
 # Spaceship-Titanic-Survival-Prediction-with-Multiple-Machine-Learning-Algorithms
-A Jupyter notebook that combines and compares the performance of several popular machine learning algorithms in predicting the survival of Titanic passengers.
+
+This repository contains a Jupyter notebook that combines and compares the performance of several popular machine learning algorithms in predicting the survival of Titanic passengers. The notebook includes data preprocessing, exploratory data analysis, feature engineering, and training/testing of the models. The algorithms used in this notebook are Logistic Regression, Ridge Classifier, Decision Tree, Naive Bayes, Neural Network, Support Vector Machine, and Random Forest. The accuracy of each model is presented in a bar chart, and the Random Forest model with the highest accuracy is used to make predictions on the test dataset. The resulting submission file is also included in this repository.
